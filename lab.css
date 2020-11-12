@@ -10,12 +10,22 @@ h1 {
 }
 p {
     color: orangered;
-    padding: 35px; 
+    padding: 15px; 
     font-weight: 100;
-    font-size: 2cm;
+    font-size: .5cm;
     font-family: sans-serif;
-}
+    text-align: center;
 
+      
+}
+h2 {
+    text-align: center;
+ }
+footer  {
+    background-color: black
+    
+    }
+    
 
 
 
